@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Home",
+    "link": "/index.html"
+  },
+  {
+    "id": "2",
+    "title": "Chi Sono",
+    "link": "/chi-sono.html"
+  },
+  {
+    "id": "3",
+    "title": "Traduzioni",
+    "link": "/traduzioni.html"
+  },
+  {
+    "id": "4",
+    "title": "Lezioni Private",
+    "link": "/lezioni.html"
+  },
+  {
+    "id": "5",
+    "title": "Contatti",
+    "link": "/contatti.html"
+  }
+]

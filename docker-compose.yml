@@ -1,0 +1,9 @@
+version: '3'
+services:
+  frontend:
+    restart: always
+    build:
+      context: file
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
